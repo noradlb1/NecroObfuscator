@@ -1,0 +1,14 @@
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\bin\Debug\NecroObfuscator.exe.config
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\bin\Debug\NecroObfuscator.exe
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\bin\Debug\NecroObfuscator.pdb
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\bin\Debug\dnlib.dll
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\bin\Debug\MetroFramework.dll
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\bin\Debug\dnlib.xml
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\obj\Debug\NecroObfuscator.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\obj\Debug\NecroObfuscator.Form1.resources
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\obj\Debug\NecroObfuscator.Properties.Resources.resources
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\obj\Debug\NecroObfuscator.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\obj\Debug\NecroObfuscator.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\obj\Debug\NecroObfuscator.csproj.CopyComplete
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\obj\Debug\NecroObfuscator.exe
+C:\Users\MONSTERMC\Downloads\NecroObfuscator-main\NecroObfuscator-main\src\NecroObfuscator\obj\Debug\NecroObfuscator.pdb
